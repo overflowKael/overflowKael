@@ -1,4 +1,4 @@
-👋 Hi, I’m Kael  
+👋 Hi, I’m Joan Marcos.
 - 👀 I’m interested in web development, backend systems, and open-source projects.  
 - 🌱 I’m currently learning Next.js and improving my skills in React + Node.js.  
 - 💞️ I’m looking to collaborate on innovative web applications and backend APIs.  
