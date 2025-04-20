@@ -1,6 +1,6 @@
 👋 Hi, I’m Joan Marcos.
 - 👀 I’m interested in web development, backend systems, and open-source projects.  
-- 🌱 I’m currently learning Next.js and improving my skills in React + Node.js.  
+- 🌱 I’m currently learning Nest and improving my skills in NextJs.  
 - 💞️ I’m looking to collaborate on innovative web applications and backend APIs.  
 - 📫 How to reach me: joanmarcosrh@gmail.com  
 - 😄 Pronouns: He/Him  
